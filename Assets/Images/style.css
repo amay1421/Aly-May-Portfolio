@@ -30,12 +30,12 @@ a { align-items: right;}
 .about-me-card {
     background-color: white;
     color:black;
-    margin: 0;
+    margin: 20;
     padding: 5;
     text-emphasis: weight;
 
 }
-.card-title {
+.card-title  {
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-emphasis: weight;
