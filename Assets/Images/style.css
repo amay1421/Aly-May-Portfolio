@@ -36,7 +36,7 @@ a { align-items: right;}
 
 }
 .card-title  {
-    text-align: center;
+    text-align: left;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-emphasis: weight;
     font-size: 40px;
