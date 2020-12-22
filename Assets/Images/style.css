@@ -46,3 +46,10 @@ a { align-items: right;}
     font-size 20px;
     text-align:justify;
 }
+
+.form-group {
+    color:black;
+    font-weight: 400;
+    border-style: inset;
+
+}
