@@ -3,17 +3,10 @@ body {
     background-color:lightcyan;}
 
 nav .navbar-brand {
-    background-color:rgb(121, 231, 220);
+    background-color:rgb(165, 245, 237);
     color: rgba(255, 255, 255, 0.911);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.navbar { 
-    display:flex;
-    justify-content: space-between;
-    align-items: right;
-    background-color:rgb(127, 131, 134);
-    color:black;
-} 
 
 a { align-items: right;}
 
@@ -22,15 +15,13 @@ a { align-items: right;}
     text-emphasis: weight;
 
 }
-.navbar-links ul {
+.navbar-nav {
     margin: 0;
     padding:0;
-    display: flex;
+    justify-content: right;
 }
-.navbar-links li {
-    list-style: none;
 }
-.navbar-links li a { 
+.navbar-nav a { 
     text-decoration: none;
     color: black;
     padding: 1rem;
