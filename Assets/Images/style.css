@@ -1,17 +1,26 @@
 
-body nav .navbarbrand {
-    background-color: teal;
+body { 
+    background-color:lightcyan;}
 
+nav .navbar-brand {
+    background-color:rgb(121, 231, 220);
+    color: rgba(255, 255, 255, 0.911);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-/* .navbar { 
+.navbar { 
     display:flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: right;
     background-color:rgb(127, 131, 134);
     color:black;
-}
+} 
+
+a { align-items: right;}
+
 .navbar-brand { 
-    font-size: 40px;
+    font-size: 30px;
+    text-emphasis: weight;
+
 }
 .navbar-links ul {
     margin: 0;
@@ -25,9 +34,24 @@ body nav .navbarbrand {
     text-decoration: none;
     color: black;
     padding: 1rem;
-    /* display: block; 
-} */
+    display: block; 
+}
 .about-me-card {
-    font-size:x-large;
-    color:cadetblue;
+    background-color: white;
+    color:black;
+    margin: 0;
+    padding: 5;
+    text-emphasis: weight;
+
+}
+.card-title {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-emphasis: weight;
+    font-size: 40px;
+}
+.card-text {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size 20px;
+    text-align:justify;
 }
