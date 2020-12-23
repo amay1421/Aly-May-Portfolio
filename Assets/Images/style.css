@@ -6,12 +6,13 @@ nav .navbar-brand {
     background-color:rgb(165, 245, 237);
     color: rgba(255, 255, 255, 0.911);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-emphasis: weight;
 }
 a { align-items: right;}
 
-.navbar-brand { 
-    font-size: 30px;
-    text-emphasis: weight;
+/* .navbar-brand {  */
+
 }
 .navbar-nav {
     margin: 0;
