@@ -1,25 +1,22 @@
-
 body { 
     background-color:lightcyan;}
 
+    /* This allowed me to get that blue color */
 nav .navbar-brand {
     background-color:rgb(165, 245, 237);
     color: rgba(255, 255, 255, 0.911);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 a { align-items: right;}
 
 .navbar-brand { 
     font-size: 30px;
     text-emphasis: weight;
-
 }
 .navbar-nav {
     margin: 0;
     padding:0;
     justify-content: right;
-}
 }
 .navbar-nav a { 
     text-decoration: none;
@@ -27,6 +24,7 @@ a { align-items: right;}
     padding: 1rem;
     display: block; 
 }
+/* This is the styling for the cards */
 .about-me-card {
     background-color: white;
     color:black;
@@ -34,18 +32,16 @@ a { align-items: right;}
     padding: 20px;
     text-emphasis: weight;
     border: 1px solid #c9c9c9;
-    ;
-
 }
+/* More card styling */
 .card-title  {
     text-align: left;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-emphasis: weight;
     font-size: 40px;
     color: black;
-
-
 }
+/* More Card Styling */
 .card-text {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align:left;
@@ -55,5 +51,5 @@ a { align-items: right;}
     color:black;
     font-weight: 400;
     border-style: inset;
-
+    background-color:rgb(165, 245, 237);
 }
