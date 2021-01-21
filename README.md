@@ -4,5 +4,6 @@ This is a personal portolio. It includes an 'About Me' page, a 'Portfolio' page,
 
 ![alt text](./ReadMe_Portfolio.png)
 
-Repo Link: https://github.com/amay1421/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio
-Deployed Link: https://amay1421.github.io/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/index.html
+<strong> Repo Link:</strong> https://github.com/amay1421/Aly-May-Portfolio
+<br>
+<strong>Deployed Link:</strong> https://amay1421.github.io/Aly-May-Portfolio/
